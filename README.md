@@ -1,12 +1,14 @@
 # Hi, I'm Liam 👋
 
-Third-year Computing Science student at the University of Edinburgh. I build apps and devices that sense the real world while respecting privacy: Bluetooth beacon tracking, on-device computer vision and real-time data apps.
+**Third-year Computing Science student at the University of Edinburgh.** I build apps and devices that sense the real world while respecting privacy, from Bluetooth beacons to on-device computer vision.
 
-- 📱 **Software developer at Roadvert**, a vehicle-advertising startup. I built the Truckalytics driver app (Flutter, BLE, SQL, REST APIs), now live on the App Store.
-- 🎪 **Founder of FESTAG**, a festival-safety wristband platform. Young EDGE 2026 pitch finalist.
-- 🤖 **Currently building** a study-break desk robot with a Raspberry Pi 5 and MediaPipe for my Edinburgh Award.
+### 🔨 What I'm working on
+- 📱 **Software developer at Roadvert.** I built the **Truckalytics** driver app, which uses Bluetooth beacons to measure how many people see adverts on trucks. It's live on the App Store and built with Flutter, BLE, SQL and REST APIs.
+- 🤖 **[Study-Break Robot](https://github.com/limccoll/study-break-robot).** A Raspberry Pi desk robot that spots study fatigue with on-device computer vision (Edinburgh Award project).
+- 🎪 **FESTAG.** A festival-safety wristband platform I founded. Young EDGE 2026 pitch finalist.
 
-**Languages:** Python · Java · Dart · JavaScript · SQL · Haskell
-**Tools:** Flutter · MySQL · REST APIs · Git · Bluetooth Low Energy · Raspberry Pi · Figma
+### 🧰 Tech
+`Python` `Java` `Dart` `JavaScript` `SQL` `Haskell` · `Flutter` `MySQL` `REST APIs` `Bluetooth Low Energy` `Raspberry Pi` `MediaPipe` `Git`
 
-📫 [LinkedIn](https://www.linkedin.com/in/liam-mccoll-433290276/) · s2543478@ed.ac.uk
+### 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/liam-mccoll-433290276/) · s2543478@ed.ac.uk
